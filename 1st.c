@@ -24,3 +24,6 @@ int main()
 
     return 0;
 }
+//output
+// Enter a number: 12345
+// Sum of digits = 15
