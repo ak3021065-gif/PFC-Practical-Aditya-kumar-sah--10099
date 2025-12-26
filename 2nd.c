@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>         //Aditya kumar sah (10099)
 
 void swap(int *a, int *b)
 {
@@ -22,3 +22,8 @@ int main()
 
     return 0;
 }
+//output
+// Enter two numbers: 4
+// 7
+// After swapping:
+// a = 7, b = 4
