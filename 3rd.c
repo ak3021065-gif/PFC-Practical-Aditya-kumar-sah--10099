@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>      //Aditya kumar sah (10099)
 
 void printTriangle(int n)
 {
@@ -23,3 +23,10 @@ int main()
 
     return 0;
 }
+
+//output
+// Enter height: 4  
+// *       
+// * *     
+// * * *   
+// * * * * 
