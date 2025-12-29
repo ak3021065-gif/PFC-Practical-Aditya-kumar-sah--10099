@@ -26,3 +26,18 @@ int main() {
 
     return 0;
 }
+
+// Enter rows and columns: 3 3
+// Enter 9 elements:
+// 6
+// 9
+// 8
+// 5
+// 4
+// 7
+// 9
+// 0
+// 6
+// Sum of Row 1 = 23
+// Sum of Row 2 = 16
+// Sum of Row 3 = 15
