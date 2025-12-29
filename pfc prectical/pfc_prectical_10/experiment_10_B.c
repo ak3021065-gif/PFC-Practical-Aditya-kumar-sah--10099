@@ -25,3 +25,20 @@ int main() {
 
     return 0;
 }
+
+
+
+
+// Enter size of square matrix : 3
+// Enter 9 elements:
+// 6
+// 8
+// 6
+// 3
+// 0
+// 6
+// 7
+// 9
+// 0
+// Sum of diagonal elements = 6
+
