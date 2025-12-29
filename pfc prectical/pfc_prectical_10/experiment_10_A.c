@@ -35,3 +35,16 @@ int main() {
 
     return 0;
 }
+// Enter rows and columns: 3 3 
+// Enter 9 elements:
+// 7
+// 9
+// 7
+// 6
+// 0
+// 9
+// 3
+// 4
+// 1
+// Largest element = 9
+// Smallest element = 0
